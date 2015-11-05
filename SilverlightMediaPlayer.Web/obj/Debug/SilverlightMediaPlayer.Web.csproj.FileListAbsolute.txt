@@ -1,0 +1,12 @@
+D:\Projects\SilverlightPlayer\SilverlightMediaPlayer\SilverlightMediaPlayer.Web\bin\SilverlightMediaPlayer.Web.dll.config
+D:\Projects\SilverlightPlayer\SilverlightMediaPlayer\SilverlightMediaPlayer.Web\bin\SilverlightMediaPlayer.Web.dll
+D:\Projects\SilverlightPlayer\SilverlightMediaPlayer\SilverlightMediaPlayer.Web\bin\SilverlightMediaPlayer.Web.pdb
+D:\Projects\SilverlightPlayer\SilverlightMediaPlayer\SilverlightMediaPlayer.Web\obj\Debug\SilverlightMediaPlayer.Web.csprojResolveAssemblyReference.cache
+D:\Projects\SilverlightPlayer\SilverlightMediaPlayer\SilverlightMediaPlayer.Web\obj\Debug\SilverlightMediaPlayer.Web.dll
+D:\Projects\SilverlightPlayer\SilverlightMediaPlayer\SilverlightMediaPlayer.Web\obj\Debug\SilverlightMediaPlayer.Web.pdb
+D:\Projects\NewSilverlightPlayer\SilverlightMediaPlayer.Web\bin\SilverlightMediaPlayer.Web.dll.config
+D:\Projects\NewSilverlightPlayer\SilverlightMediaPlayer.Web\bin\SilverlightMediaPlayer.Web.dll
+D:\Projects\NewSilverlightPlayer\SilverlightMediaPlayer.Web\bin\SilverlightMediaPlayer.Web.pdb
+D:\Projects\NewSilverlightPlayer\SilverlightMediaPlayer.Web\obj\Debug\SilverlightMediaPlayer.Web.dll
+D:\Projects\NewSilverlightPlayer\SilverlightMediaPlayer.Web\obj\Debug\SilverlightMediaPlayer.Web.pdb
+D:\Projects\NewSilverlightPlayer\SilverlightMediaPlayer.Web\obj\Debug\SilverlightMediaPlayer.Web.csprojResolveAssemblyReference.cache
